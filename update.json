@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "version": "1.2.0",
+  "notes": "- Download launcher updates from public GitHub Releases instead of the admin upload system.\n- Verify signed update metadata and ZIP/EXE integrity before replacing the launcher.\n- Preserve configuration, appearance settings and the saved Windows license during updates.\n- Show the launcher version in the sidebar and add the Discord community button.",
+  "pub_date": "2026-10-24T06:29:40.584Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.0/Kippo-Launcher-x64.zip",
+  "zip_sha256": "db0f164d23557187e39ed049caedf324cd69551c36cef6b9b519a290dc0c9356",
+  "zip_size": 6018694,
+  "exe_sha256": "1a2939ba2dbe1ba6e9ed2eea202c9048b46b49c1417e77847aacdf658707dfe0",
+  "exe_size": 6018560,
+  "signature": "s30fm7cgfRXq+yR5hf/+sKgGl4UavLP+Sw0PlIwjCn+FAASCr2+6+DOHRfbVzY1RyueC4hmWVrqVJKJJL1shpU5EqkgCUc6MSKPGPxONChQyScbqAMqss4GMiE4KaG+Szb/MxY/JevJfWm/lDu2t3XBC4YBE2xZOSHvCLmDqNM3+5+UAk51JaBzkW/q4jb60Xt8tfm1ZKXkO1skamtl3pwBGJyKIL22x9zZ3qxWmyR2AnQxDnySLwPwMl1V0JLTMUyTLw86vCBqumNStMQrA/bl7bLouZc9ggBuPGvf/zlPlTD0Q2Rn3TSKlaRYEIoBsbhsqL8WgBggEnmZ8XFMX+YNjrydQPckCRv95fbbCauGcuG3WWhidFk0n+0D9Lw0PhjyWNfYzLT79GvH75Yl9qZRD/SPQm4SMaKzFp7l2CD89gKAfItSjgBpa3dLzvVXqQu7ckSY2FjcBO42Rm14rXBZgQGglc3Xy96Oq/2pi0FcPJZpWkKJybFCLiUwiySUm"
+}
