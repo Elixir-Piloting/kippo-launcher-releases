@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.4",
-  "notes": "- Clean verified updater staging and rollback files after the update helper exits.\n- Preserve unknown files, unverified recovery folders and newer pending updates.",
-  "pub_date": "2026-10-24T10:11:34.975Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.4/Kippo-Launcher-x64.zip",
-  "zip_sha256": "236234aafaf886131619ea950e01158df9eb700c2b204cfd236120ed9a018e1a",
+  "version": "1.2.5",
+  "notes": "- Remove redundant Home and Settings page headings.\n- Compact the subscription and status cards, align their bottom actions and remove internal scrolling.\n- Refresh the detected game version automatically and display it inline.\n- Save selected paths automatically without redundant refresh or save buttons.",
+  "pub_date": "2026-10-24T10:55:13.006Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.5/Kippo-Launcher-x64.zip",
+  "zip_sha256": "fbbc5a960d7af428890de30fd50d2bee2dd93361437e5f9b3a6197a8f92be4ac",
   "zip_size": 6168710,
-  "exe_sha256": "fcd8103e05144b9f2ee755e13b1cf02010dd7a1d41e539116f9cd08a55ac1c13",
+  "exe_sha256": "272d450bdfb5797ea564de8f8169666453430d1f3a8ceae5a4b08b37e550ee8e",
   "exe_size": 6168576,
-  "signature": "aUUr9csUFOBcXTuJH4ca+aJAB1WKUyddhS+Ds6A9fuwC8ouOgP4k77TaQiTY5CGct9uLy/CRu6qDxTgOkCRo7zvbzLV2AqFXzjt+/PFCeFCadKvCeXCqWD1CSYZXUHatT4focUuo+tqoF+YuQVxNbFiXwg0lkdn8EAK2HAaCxVbpObQOIfX+b1cgLDSs7PgM65jnbuvShimuY99ZEdhc+R7rnWVGHTPz3LZoEFugoyLRBSqZFhIY8fcRPmauxBGq1omMVczz8LQgzG063EXTTYjofL2qTH0t7vCq9lfSiB3AltrHRD4Oy5O1J3xYj5zjkH3Oo22usWMd12f/RUYSA2p8UJKtR/qzfZiFwimuORZp0A2a2iYr0m0dsMkhURbJjkXW8HKtxzSPdSUrKq44wzhLzqWR7VuYF5O4bePEXzJtMT+Bpf2PygkGktgBB2Yue+d+QGcRUyVH/2/cWN1lXzqE69qhpF8Q5jNw1qKckrOyI8kZbcBqyqc60Qv2AnMV"
+  "signature": "Vd2spzMY/A3jEiKVKpSVT82vzUHmAOgHLREtPoIp64J/nLJpXlbIZ3hF3T6HBji8J4YznJ7cOqk7ZnXn10g6kYD78Ywf1OzgrInaw5KfUf10lPQHcTJm2OR2N0VDG2qXDUF7ylPETYVwb0BZ4ZR3uBmQouYEejNFv0GMUVgwrsiPTYntwqez8C7XpD7MOFXgKDsoNgoakLLKyMNZt593W3hxip4fXw5w1iPD9WxWILNpIvvP51kEk+irmu0rixNTQJGbwgXTciVOI9pnjMB63/QoSF+N/VPL/lV3773dqj+oiO+IWqCo+RYhnRjG8fQq2qvpDBROSuRaPS6OYNaY3wcms1j4qzV31t9mhYHKr48qfpnTozcCR0dmP+yvbyWGDAd/TG+DaXvb63wXwe1XZFiX8pYjREBrDQhPLonxBqYMdeoUENObL5k52z5J+/NCTbpST1Ou3jJHNRitADIam1ifsgD6A2IuoT68Rur0UOS5XC0g9V/wjLPrirol/tIn"
 }
