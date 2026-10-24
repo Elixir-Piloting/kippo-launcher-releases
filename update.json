@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.3",
-  "notes": "- Automatically save the selected game executable and local development DLL paths.\n- Refresh configuration when in-game settings change.\n- Preserve unsaved launcher editor changes during background refresh.\n- Pass the configuration directory explicitly to the launch helper and game environment.\n- Remove overlay appearance editing from the launcher; imgui.ini belongs only to the overlay.",
-  "pub_date": "2026-10-24T09:37:20.924Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.3/Kippo-Launcher-x64.zip",
-  "zip_sha256": "c2818aa07b1a8735196f451ab3868846b5547d4978cfa46d7193be7ba6210e86",
-  "zip_size": 6139526,
-  "exe_sha256": "7bf2dad98ef3a09057803dc77f3a8cef6fbaa70c51d309b52d5440e28827d822",
-  "exe_size": 6139392,
-  "signature": "UVQV3qG5s5oPhCwLdaDG7/d0mzmAkUZK8TawLFxlcKhjvRVekKAOLb8FjMu2H+UlzyMy2g5Ogc9kq3L9PzQZetYjoG/qlSvZb7CZs+wcfpLzrfLLAd0+p3NgSIVYFbFgwtEQH6O3isg7f3OQvseOeQKq+hIc0qvwQGZdQsbXxHxBUBGPcywHG7ism08ugSEXjy7aiS2UABtEFStvB4TGRMInlErHKwzviqpP43KABC8YvhsuMJB+ZcDjXP/AVywXez7oaOoD7VQ4ErrGML5YmDTKXkE9q6AHLDxwJb5xz/JeUqGRV2WywEUuvaPpT8BstC9W18sT+Eff48TU9KuwvR65c6eQm7F1Io1rbo19PRt3YpeQYJYjQG4CP4wL8toPYF3hergwQHpzcUGxVl50W4Ed5/64zEPMrjAsmT8j243x5FRf64X6YoBf7jsz+laOf2M4w80lRieIMkLlLxSa0PWsYN4o1qUrmq+FOBEvRYLcWBXI3smQX2tQ9GKCCOER"
+  "version": "1.2.4",
+  "notes": "- Clean verified updater staging and rollback files after the update helper exits.\n- Preserve unknown files, unverified recovery folders and newer pending updates.",
+  "pub_date": "2026-10-24T10:11:34.975Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.4/Kippo-Launcher-x64.zip",
+  "zip_sha256": "236234aafaf886131619ea950e01158df9eb700c2b204cfd236120ed9a018e1a",
+  "zip_size": 6168710,
+  "exe_sha256": "fcd8103e05144b9f2ee755e13b1cf02010dd7a1d41e539116f9cd08a55ac1c13",
+  "exe_size": 6168576,
+  "signature": "aUUr9csUFOBcXTuJH4ca+aJAB1WKUyddhS+Ds6A9fuwC8ouOgP4k77TaQiTY5CGct9uLy/CRu6qDxTgOkCRo7zvbzLV2AqFXzjt+/PFCeFCadKvCeXCqWD1CSYZXUHatT4focUuo+tqoF+YuQVxNbFiXwg0lkdn8EAK2HAaCxVbpObQOIfX+b1cgLDSs7PgM65jnbuvShimuY99ZEdhc+R7rnWVGHTPz3LZoEFugoyLRBSqZFhIY8fcRPmauxBGq1omMVczz8LQgzG063EXTTYjofL2qTH0t7vCq9lfSiB3AltrHRD4Oy5O1J3xYj5zjkH3Oo22usWMd12f/RUYSA2p8UJKtR/qzfZiFwimuORZp0A2a2iYr0m0dsMkhURbJjkXW8HKtxzSPdSUrKq44wzhLzqWR7VuYF5O4bePEXzJtMT+Bpf2PygkGktgBB2Yue+d+QGcRUyVH/2/cWN1lXzqE69qhpF8Q5jNw1qKckrOyI8kZbcBqyqc60Qv2AnMV"
 }
