@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.0",
-  "notes": "- Download launcher updates from public GitHub Releases instead of the admin upload system.\n- Verify signed update metadata and ZIP/EXE integrity before replacing the launcher.\n- Preserve configuration, appearance settings and the saved Windows license during updates.\n- Show the launcher version in the sidebar and add the Discord community button.",
-  "pub_date": "2026-10-24T06:29:40.584Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.0/Kippo-Launcher-x64.zip",
-  "zip_sha256": "db0f164d23557187e39ed049caedf324cd69551c36cef6b9b519a290dc0c9356",
-  "zip_size": 6018694,
-  "exe_sha256": "1a2939ba2dbe1ba6e9ed2eea202c9048b46b49c1417e77847aacdf658707dfe0",
-  "exe_size": 6018560,
-  "signature": "s30fm7cgfRXq+yR5hf/+sKgGl4UavLP+Sw0PlIwjCn+FAASCr2+6+DOHRfbVzY1RyueC4hmWVrqVJKJJL1shpU5EqkgCUc6MSKPGPxONChQyScbqAMqss4GMiE4KaG+Szb/MxY/JevJfWm/lDu2t3XBC4YBE2xZOSHvCLmDqNM3+5+UAk51JaBzkW/q4jb60Xt8tfm1ZKXkO1skamtl3pwBGJyKIL22x9zZ3qxWmyR2AnQxDnySLwPwMl1V0JLTMUyTLw86vCBqumNStMQrA/bl7bLouZc9ggBuPGvf/zlPlTD0Q2Rn3TSKlaRYEIoBsbhsqL8WgBggEnmZ8XFMX+YNjrydQPckCRv95fbbCauGcuG3WWhidFk0n+0D9Lw0PhjyWNfYzLT79GvH75Yl9qZRD/SPQm4SMaKzFp7l2CD89gKAfItSjgBpa3dLzvVXqQu7ckSY2FjcBO42Rm14rXBZgQGglc3Xy96Oq/2pi0FcPJZpWkKJybFCLiUwiySUm"
+  "version": "1.2.1",
+  "notes": "- Pause monthly licenses for up to seven days and resume anytime.\n- Keep remaining time frozen while paused, with automatic resume after seven days.\n- Add a Shop button alongside Discord.\n- Allow scrolling on Overview when the window is small.",
+  "pub_date": "2026-10-24T06:53:00.362Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.1/Kippo-Launcher-x64.zip",
+  "zip_sha256": "cd5e9d99768429038b607e8a52477f2607b187b47cd0ed8e3800cc65d5a757bb",
+  "zip_size": 6067334,
+  "exe_sha256": "017cd578c007b5e5328e4d3b6476e05b60df83382753abf305dd553474b33afa",
+  "exe_size": 6067200,
+  "signature": "rX4yozXFQo6NoBFudy2Ptqr/eqNueWX6eQhM8bByYFAulo8iERoyZWri2oOHesCImoTuOj/PjLl6JM8aJ97Tg9lsvItvvfvWzff3X1/xPOwl7CGKtk6OXRRw+TV0RNZjsFmf20zDNhywh9vTf6DzxNXRhCSmtpwn2eLL1J8EjUAyWzxXYicU8ip5WvV5WKer4qPzuCOT+M8I1tGZ6Bj7vl6vWaVxD6tKQ771HyJF2qEYzNC0ZeOfaiISqETpV/gy9oqWa9k3UBRdcPoGwjYhFFeTl3yM+kEkIHF7qE5fkoSO2Q+/arCAF/BqIVKTo5u8vxGYKEgg1GZzC5KffFtGZMhLFIb4aA+k58dHq1bgRkzhw2Apvu9TLrItDTOWc+EI5KSzIFFv46FWjWXmp8ruIzKz93xOP+0dQymLQ/Um9QrUMB1OSYXRqPejNtThBcgPv3+DGxc4AdoDOF1au0NZpk//vwuF32+v+k34cTSYYZpHyCqgyasI2FiCRyHW2cIi"
 }
