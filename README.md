@@ -1,2 +1,3 @@
-# kippo-launcher-releases
-Public Kippo launcher ZIP releases and signed update manifest. No source or DLLs.
+# Kippo Launcher
+
+Official downloads and updates for Kippo Launcher.
