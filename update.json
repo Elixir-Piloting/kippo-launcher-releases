@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.1",
-  "notes": "- Pause monthly licenses for up to seven days and resume anytime.\n- Keep remaining time frozen while paused, with automatic resume after seven days.\n- Add a Shop button alongside Discord.\n- Allow scrolling on Overview when the window is small.",
-  "pub_date": "2026-10-24T06:53:00.362Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.1/Kippo-Launcher-x64.zip",
-  "zip_sha256": "cd5e9d99768429038b607e8a52477f2607b187b47cd0ed8e3800cc65d5a757bb",
-  "zip_size": 6067334,
-  "exe_sha256": "017cd578c007b5e5328e4d3b6476e05b60df83382753abf305dd553474b33afa",
-  "exe_size": 6067200,
-  "signature": "rX4yozXFQo6NoBFudy2Ptqr/eqNueWX6eQhM8bByYFAulo8iERoyZWri2oOHesCImoTuOj/PjLl6JM8aJ97Tg9lsvItvvfvWzff3X1/xPOwl7CGKtk6OXRRw+TV0RNZjsFmf20zDNhywh9vTf6DzxNXRhCSmtpwn2eLL1J8EjUAyWzxXYicU8ip5WvV5WKer4qPzuCOT+M8I1tGZ6Bj7vl6vWaVxD6tKQ771HyJF2qEYzNC0ZeOfaiISqETpV/gy9oqWa9k3UBRdcPoGwjYhFFeTl3yM+kEkIHF7qE5fkoSO2Q+/arCAF/BqIVKTo5u8vxGYKEgg1GZzC5KffFtGZMhLFIb4aA+k58dHq1bgRkzhw2Apvu9TLrItDTOWc+EI5KSzIFFv46FWjWXmp8ruIzKz93xOP+0dQymLQ/Um9QrUMB1OSYXRqPejNtThBcgPv3+DGxc4AdoDOF1au0NZpk//vwuF32+v+k34cTSYYZpHyCqgyasI2FiCRyHW2cIi"
+  "version": "1.2.2",
+  "notes": "- Keep downloaded builds in temporary session storage instead of the installation folder.\n- Keep Kippo in the system tray when closed during a game session.\n- Remove temporary session files after game exit, including when the visible launcher was closed.\n- Retry abandoned-session cleanup and remove old generated downloads without touching local DLLs or settings.",
+  "pub_date": "2026-10-24T09:17:59.205Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.2/Kippo-Launcher-x64.zip",
+  "zip_sha256": "d15f56caa8c3633a0758938000a1811f3868f1b43655f124f7d865be5e4f02d0",
+  "zip_size": 6148742,
+  "exe_sha256": "a17f7c9ae3eb75a840e6792a6da3ed71c32755601a7f399b6f2eaca1cd643ce2",
+  "exe_size": 6148608,
+  "signature": "dQg4VVfpeD0Wh7j9bH528kAIQ6cHn58TpHFN5ntIuW51C+eq4D/ELKACZfzDyUdlG3mc9bG0YXnrHKRu/0469+EnvbTrE+uo95IVLuo4NbZE/gZ+sKLiJtHd+ct/OpizYMtfm2JbortHkNGFrB5+/074MR9zAi0n1i0GYa03uYhyCLOx617aE5AN9T4B9deU+x190/eKjtXIcuB5KQ32sbCfOv0O/k+8Sxax+w6irQ+svq+WlwFxtcDlts+QIiVdlH9VFNmWaeOVAkFwfa2s9/5szMoPXMjzRMEDvzqKQNwrq8sOPto6EaNLOXLsSHUHUcbOt3LEsLvhdDMkYxLU9tKpMDU9vYTw2FtZZa08LQWRTsauEYf4cc35XNmouFAWEJ56g4NQvXlvv2Lum9UxldfUhyQtSeGolz7xmuXqFXjDsn/K7Vt6+Jg9zCzfaVKeOgjiFearYSpyWXOke4yikYucmR1KaDjpQP/4ds+QK377vm4cZP6QK5Tfb3POXT6k"
 }
