@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.6",
-  "notes": "- Offer a 24-hour free trial to eligible new devices, with confirmation and a live countdown.\n- Restore interrupted claims without restarting the trial or displaying a key.\n- Show trial expiry and keep paid activation and the Shop available.",
-  "pub_date": "2026-10-25T02:41:57.623Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.6/Kippo-Launcher-x64.zip",
-  "zip_sha256": "506f32964e3b8d84669a46d05026f8d32215491505a3dc3c636a276bfad09418",
-  "zip_size": 6185606,
-  "exe_sha256": "2b0f7910518d1af36a469ca1c497cc57002b41c6507e3d1bd40fa2e6c595415f",
-  "exe_size": 6185472,
-  "signature": "tXR0m02Ot8FiK/hW+OZoK6Fo1V5CoJcOn3a5AqePW6JmUfLYlAoM6P88ofq2uBrB0ucJzhxj9+8pI3bBvPnQF0JrPXISkJj9Ran9fRJgpkjf+lvYg3gIpSdep6FLvLXxVX8RxH5Ppzd9bBKky8KQsVasG3XmpUF6KjKM0KlZJz99iwsldYKO7IH8/iU0QAnM5bvChJ2p9F0CsCgovcuixRCrtVcueL7i5RdWAxF0uxijpXExWcWtwWt5Tp2eHBY3mU5dReCSmx6kuPTLbZrg3jh1/rPTkrAvMa2GzfBSZrSug/RUDI3nVndTxXq0iNxIDIEnpEde4vo/cy3TS4A0xjzsfAzPqPxAsv6aBtIhD55iL2E73KfGbzNsgNjUKxwEgShfwVtoWNfgLfPynwXXCoX9hF+M2PzN3VXo8J8SuHX+4PIsbK/fmhkMjjR2/UVixzOzwGWpaakxRdt85CAvE2IlmMhosuRHjkwCMvlMzw1Abl17G1d0tOWI0wP90A+6"
+  "version": "1.2.7",
+  "notes": "- Support the latest Kippo feature configuration, including Conditional God Mode and Map Teleport hotkeys.\n- Preserve configuration when updating to the latest DLL release.",
+  "pub_date": "2026-10-25T22:14:36.423Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.7/Kippo-Launcher-x64.zip",
+  "zip_sha256": "07c96cfafca657b4a721a96336f49ab43df6782e729cb40c311061526835b468",
+  "zip_size": 6189190,
+  "exe_sha256": "087966c6dbee12be5d8aadf6c799f7be15cc53a680cdf038d3f0677fb14cc975",
+  "exe_size": 6189056,
+  "signature": "kdQUNghTD1ZMFvX6VSAjn+tcG0n8boBQh5A8h4MYvjoGiIrF9MlfmZXw/eWM9rpOeMixfoTriCrIbqASOT3tcpm1TMt7dJYmD/+t/P0nFk4SF+4ISC/IlEzruPaPJ0iMp3kjG1Nd4aHbGFiDDPvsU2xsvap9oL6BaLMzJBN3j1oJphMc20oEGo6kwHG7IgfnU3MEt7yWl6mNQ5fTfYJtUnR6CSV0JJgEe8IpYxWAEjB2iqa8Gbl907HkuezRZnGcLcsPwsjj2x+FVbxZgbNecCeIUZ7U8MBK3o241hxh8DvDsruGGO2r3Z6laZJS7bkUsfvudwnkcrinzfqEhbfseub1K2ZgS1siAf0ujshgRrSfbAD1BOWhoj4AV0if+adq6z/ZTTJgt1t7tAy2fA/GvWaCyTVArguqgvCYlj20FKz+FdWEs+ArXw5/ALP0dMXMwNqTtMaLrBPkAgP8fiX+sie/4PiMmiqUCP80HxqcPM7fOv/imI7Do+Dm76lMGf+/"
 }
