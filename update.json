@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.7",
-  "notes": "- Support the latest Kippo feature configuration, including Conditional God Mode and Map Teleport hotkeys.\n- Preserve configuration when updating to the latest DLL release.",
-  "pub_date": "2026-10-25T22:14:36.423Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.7/Kippo-Launcher-x64.zip",
-  "zip_sha256": "07c96cfafca657b4a721a96336f49ab43df6782e729cb40c311061526835b468",
-  "zip_size": 6189190,
-  "exe_sha256": "087966c6dbee12be5d8aadf6c799f7be15cc53a680cdf038d3f0677fb14cc975",
-  "exe_size": 6189056,
-  "signature": "kdQUNghTD1ZMFvX6VSAjn+tcG0n8boBQh5A8h4MYvjoGiIrF9MlfmZXw/eWM9rpOeMixfoTriCrIbqASOT3tcpm1TMt7dJYmD/+t/P0nFk4SF+4ISC/IlEzruPaPJ0iMp3kjG1Nd4aHbGFiDDPvsU2xsvap9oL6BaLMzJBN3j1oJphMc20oEGo6kwHG7IgfnU3MEt7yWl6mNQ5fTfYJtUnR6CSV0JJgEe8IpYxWAEjB2iqa8Gbl907HkuezRZnGcLcsPwsjj2x+FVbxZgbNecCeIUZ7U8MBK3o241hxh8DvDsruGGO2r3Z6laZJS7bkUsfvudwnkcrinzfqEhbfseub1K2ZgS1siAf0ujshgRrSfbAD1BOWhoj4AV0if+adq6z/ZTTJgt1t7tAy2fA/GvWaCyTVArguqgvCYlj20FKz+FdWEs+ArXw5/ALP0dMXMwNqTtMaLrBPkAgP8fiX+sie/4PiMmiqUCP80HxqcPM7fOv/imI7Do+Dm76lMGf+/"
+  "version": "1.2.8",
+  "notes": "- Replace the sidebar artwork and Windows app icon with the new Kippo symbol.",
+  "pub_date": "2026-10-25T22:38:49.858Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.8/Kippo-Launcher-x64.zip",
+  "zip_sha256": "ff0f3d8196fe0503006a770ddd138851a60e71686f01b02b950025275a8d04fc",
+  "zip_size": 3980934,
+  "exe_sha256": "c423b43b5ec860bbfbbc3162dade8d0863d571e9516d11c1da97dd1a94fcb60b",
+  "exe_size": 3980800,
+  "signature": "AQAjkNYM8bOETfQ4LU+9UUhi7AnGVhvVh71nSYB57HweWB6wJlEPvhR0AilQoQBO/KPa6FAzWKn3a84Pd4nFmmJg3ZqRswS1SBckRC+iErHqepnpVrLgi999gtgziAcQBoJ2NUny8Avrr6BH7u8yOUx6UJxRZudoHkuP5ylkSP7dF5Emw+BCPZvXZPR5NGZeeHH54FKjGJR2NbgiNeOpFSaEuaUkv81wCS5xBMUBUdRigRmTTfvAsN9+YyIq8329zKEMTdLKWGLy+Id19icuSLNmMZqmd2l7omfmfybu0CrICqCHhNGlwhpQdvB87Vw29XLN5lfJQ+gtxQPZbYfxjGwaOinMmHdvCoOHv8QdApxgBHIgpq1e0gUsjPqYBe5CFUd0wkHBUi3SCaV7eojkNdU4UQXr+gfZ25oO9C5l/rs3bekYpQKKFEAlbSY/H51u+s/Rd7AHE1ppMWfZiaE1DtbzPEqV7jFawUyMdo/eK099GDrOZ+DHdkYkR+Y75d3G"
 }
