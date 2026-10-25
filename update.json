@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.2.5",
-  "notes": "- Remove redundant Home and Settings page headings.\n- Compact the subscription and status cards, align their bottom actions and remove internal scrolling.\n- Refresh the detected game version automatically and display it inline.\n- Save selected paths automatically without redundant refresh or save buttons.",
-  "pub_date": "2026-10-24T10:55:13.006Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.5/Kippo-Launcher-x64.zip",
-  "zip_sha256": "fbbc5a960d7af428890de30fd50d2bee2dd93361437e5f9b3a6197a8f92be4ac",
-  "zip_size": 6168710,
-  "exe_sha256": "272d450bdfb5797ea564de8f8169666453430d1f3a8ceae5a4b08b37e550ee8e",
-  "exe_size": 6168576,
-  "signature": "Vd2spzMY/A3jEiKVKpSVT82vzUHmAOgHLREtPoIp64J/nLJpXlbIZ3hF3T6HBji8J4YznJ7cOqk7ZnXn10g6kYD78Ywf1OzgrInaw5KfUf10lPQHcTJm2OR2N0VDG2qXDUF7ylPETYVwb0BZ4ZR3uBmQouYEejNFv0GMUVgwrsiPTYntwqez8C7XpD7MOFXgKDsoNgoakLLKyMNZt593W3hxip4fXw5w1iPD9WxWILNpIvvP51kEk+irmu0rixNTQJGbwgXTciVOI9pnjMB63/QoSF+N/VPL/lV3773dqj+oiO+IWqCo+RYhnRjG8fQq2qvpDBROSuRaPS6OYNaY3wcms1j4qzV31t9mhYHKr48qfpnTozcCR0dmP+yvbyWGDAd/TG+DaXvb63wXwe1XZFiX8pYjREBrDQhPLonxBqYMdeoUENObL5k52z5J+/NCTbpST1Ou3jJHNRitADIam1ifsgD6A2IuoT68Rur0UOS5XC0g9V/wjLPrirol/tIn"
+  "version": "1.2.6",
+  "notes": "- Offer a 24-hour free trial to eligible new devices, with confirmation and a live countdown.\n- Restore interrupted claims without restarting the trial or displaying a key.\n- Show trial expiry and keep paid activation and the Shop available.",
+  "pub_date": "2026-10-25T02:41:57.623Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.2.6/Kippo-Launcher-x64.zip",
+  "zip_sha256": "506f32964e3b8d84669a46d05026f8d32215491505a3dc3c636a276bfad09418",
+  "zip_size": 6185606,
+  "exe_sha256": "2b0f7910518d1af36a469ca1c497cc57002b41c6507e3d1bd40fa2e6c595415f",
+  "exe_size": 6185472,
+  "signature": "tXR0m02Ot8FiK/hW+OZoK6Fo1V5CoJcOn3a5AqePW6JmUfLYlAoM6P88ofq2uBrB0ucJzhxj9+8pI3bBvPnQF0JrPXISkJj9Ran9fRJgpkjf+lvYg3gIpSdep6FLvLXxVX8RxH5Ppzd9bBKky8KQsVasG3XmpUF6KjKM0KlZJz99iwsldYKO7IH8/iU0QAnM5bvChJ2p9F0CsCgovcuixRCrtVcueL7i5RdWAxF0uxijpXExWcWtwWt5Tp2eHBY3mU5dReCSmx6kuPTLbZrg3jh1/rPTkrAvMa2GzfBSZrSug/RUDI3nVndTxXq0iNxIDIEnpEde4vo/cy3TS4A0xjzsfAzPqPxAsv6aBtIhD55iL2E73KfGbzNsgNjUKxwEgShfwVtoWNfgLfPynwXXCoX9hF+M2PzN3VXo8J8SuHX+4PIsbK/fmhkMjjR2/UVixzOzwGWpaakxRdt85CAvE2IlmMhosuRHjkwCMvlMzw1Abl17G1d0tOWI0wP90A+6"
 }
