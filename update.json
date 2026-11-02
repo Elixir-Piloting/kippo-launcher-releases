@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.3.0",
-  "notes": "- Support renewable free access and full paid plans.\n- Verify signed session permissions and refresh them while the game is running.\n- Show the active plan and lock unavailable feature options.\n- Preserve configured paths, saved feature settings and automatic updates.",
-  "pub_date": "2026-11-01T14:18:11.624Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.3.0/Kippo-Launcher-x64.zip",
-  "zip_sha256": "2432a1b1e6377240aaa3f1b29b6549f3ec7291175cd74bf6d5dc155dea190b1d",
-  "zip_size": 4016774,
-  "exe_sha256": "8953fb86c132ac023888da976e08d2ba4959fd4a236d8b53bb2b3d1fc02f93e5",
-  "exe_size": 4016640,
-  "signature": "iQdNdR8HaZkOQaa/fFkGjsyJKs1TwlKPFrHaUEuJWVxcfkflf0ljpOWffdF/sV3qlA5BO14bAdFGFW21e5i7Xnv07IoSGbv+zpaeqxInGWmfU2Of28VXyOn7KWwja8lU+CTIbvedaIagMxTo1h0Mjcd2yD3jFDuHLqhdGVmuDB36R7DpDIAUF71AuLRJwLAHQCVstc/DpH1dHTIIJz3UYOuPpP4f7SefeGz8+Vu/SZ07LaAWfTrUy4TLePrLUEx0qVnjdhmIno5Mr64LPAne+7dGvsO3Go1BM8QlXdYoLBkJVHw3KFeyBD8jsDRQakvGcOlqEOapN1CJNddYk5K+SClZqKyoz4voPkRXdxYJr3sY+bzbTs5k7rTp5qvJzAKIKNck8I8aCZgq4OPztiAMB12kQdc+Wr+E2CRgnvVOLzKbtlrK1tpfuqH3oOGwO9EuDzYLdmmtH16HPrBozYv8wVzyJaSAj2zXBlPCX1/psKpzlUsSzTNjrj/iLVXZETE9"
+  "version": "1.3.1",
+  "notes": "- Show maintenance status and protected paid time clearly.\n- Keep launch errors visible instead of incorrectly requiring a license refresh.\n- Update weekly pause guidance and the Shop button destination.",
+  "pub_date": "2026-11-02T13:40:32.838Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.3.1/Kippo-Launcher-x64.zip",
+  "zip_sha256": "1a846bf85dd9d0e906b7617afe85e7c0aee7592e897bd97942853f5fc171a9c7",
+  "zip_size": 4023430,
+  "exe_sha256": "4eb71f089112f9793c3495ecb37fe300a8b415ba347fe534d70e5a282b736779",
+  "exe_size": 4023296,
+  "signature": "RnskUrj/ItatzQdTD+/jOzqGwar10Gj6XG56ujLoV0SytZAoa/rIre2CO4Occ05siWkHW5MwDhzKX7DuxTGi28a5KvAyVyW958WpM7VweqqaXzB20REOdr9U0PEcklEmsagTuG1aSmkSmxMXbN/oTDUZcAR7vU2xqiG/KGs/yFH1h2EnhfuSUZ3s5Yq1PGwgZJDxnn3cwWas9w/4A5g8x+n55VQ8VOK3VzL8JIrnT/+1NCBcu/S759mHO9xoN+Avqbl+aiRTtJcVPaanGT2fmUcWJoJ2RmSzOUtm+bm8x7yXbFbQHup1qJIA2pCAvHcpl6hXTBw7MKUlZGv0ezEWx/hL3n01DyWrjVE+ydk2IUnjeznoDWOLcdmeRaf+VcgsYQ/LL3Jqy+XE/W/g5FjumPinbai+9RHSjFytdjQh4d5HcqGlMFRrUQuM3Oa8a1F/0/l7tHRQNrWxPtAmn6k77AA5RQeGdtYqgOn5xDUKfu2rNTRF+A1jKRantUg07+bS"
 }
