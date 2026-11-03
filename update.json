@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "version": "1.3.2",
-  "notes": "- Clarify that only monthly keys include personal pauses.\n- Keep maintenance time protection for all paid key durations.",
-  "pub_date": "2026-11-02T14:04:27.750Z",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.3.2/Kippo-Launcher-x64.zip",
-  "zip_sha256": "e618bbb559d80c6601a78ad54b61e74fe0f5ebf2d9daa5bafea1f21fb3dccda4",
-  "zip_size": 4023430,
-  "exe_sha256": "b0d451f60c9748f98d12d7a7ecc11e5a23233b4b462ab8059d6b934f2ce07b40",
-  "exe_size": 4023296,
-  "signature": "c5+Rlh1piaq2WhcNJ0GFLTlfcsyFwEDZxMRbomZleZ5VoB318XEevBdP+fXOuajYPqEjeg8M25vkQg6/q8C/VTHCUMb3SNkPEalKeEvcZEOUQv/3X6UT5c0uA8RcOl5j4eC4qEb7Jg6ah1wj9beWqkRrPQGcD1FRf2Kn4ml/8YP88H+lAxWq60m/6tQdDEgxy72JZSg9QWOArKcxBee9B8yQ+vORN89tUk9rGyMwKxfmwhS4/5ELBK/B6GZOuZiBXa60oYRS7kqu83qgWQ/e2zXEvj58Irax2qGji4jb0ZbvnKG/srOR0ZuD32lD7x7pT1fP/EGjTkbznsDc+qkdFXP9R9rQqL2VEO2rWq0OBVCz+ZGZfu3IomJm+1gE59sWb3RZNatalzKAyM7xvqjtqV8075KcVTXKj1yqxai5HnXVIhAAbHICKLf+olrMs0ckN4wTAoeAMGnC7hYnq1ADwBS3wze6G9zfZTnsn+XJqW6F9UlqeR3OPb7m5BrFm/vb"
+  "version": "1.3.3",
+  "notes": "- Read game version entries with standard INI capitalization and UTF-16 encoding.\n- Offer an optional stable build override in Settings when game version detection fails.\n- Show the supported game version and recheck the selected stable build before launch.",
+  "pub_date": "2026-11-03T15:17:15.328Z",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/v1.3.3/Kippo-Launcher-x64.zip",
+  "zip_sha256": "a04f6656ff5021c3460ee14f3f565c38734f9836c24a25268e8a63309588a6c7",
+  "zip_size": 4042374,
+  "exe_sha256": "085d904fb0797cdb4ea7ae8e2e62cb2500574fbf8e39386b97012ac78f058b6e",
+  "exe_size": 4042240,
+  "signature": "cD5/6Laf8fQUzAfn1b35jISQLQAnHyYnsy9XVDHVoc1CnRhtx3EAgwWiaDjh/NcNVZvky+7xxnCcGOoKjxvQ4PgiQend5T4muTnvJ09pwns62gn8kpOJyhToSBU0gn2+LMkau3PoELLvjS1MU024jFNYA0ZqniU22JemUfQqEpAZn+a7DppJ7cTRgd9ECsDnJGZXw1UIyulzCpVBT1KeY+a7IqVnIfZDA/EBL11iQfacq4ZHJKVzXDDex9kI8DH7OH0DGm/0XLZN3B4s85dkAIWJDnY3arNbUy4DxKrasGZ74bLsKhfMmp5fOJj1mtFRbG17UJBKJzeUJzittLAoFbJBVOcvec3+DgI8rleZUSnmBCOnhtQYm2okMgT/q9OucZJ0ly7Mr1XGJZxOXV3ZmucDXpYR05i0o6Z6vkeXaXqM69Yi9TyEGGLYw9ah2+takl12FHMJ/pWAt/fPKCZITPnYXBN29uS6JgEzRNA4eWkIgba9Sgwa9Xz+Mitptxhp"
 }
