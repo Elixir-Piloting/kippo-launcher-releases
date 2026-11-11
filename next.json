@@ -1,0 +1,9 @@
+{
+  "format": "tauri-portable-zip-v1",
+  "version": "0.1.0",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.1.0/Kippo-Portable-x64.zip",
+  "sha256": "75468e635d60674c3d80d7598e8ec43be308336630efb7e712e919a7774ebd13",
+  "size": 3131254,
+  "notes": "- Portable Windows ZIP launcher: extract, run `Kippo.exe`, keep config beside it.\n- Release shell is limited to game setup, license, launch and downloads; feature settings and hotkeys are edited in the in-game menu.\n- Full feature editor and local-DLL testing remain in the development launcher.\n- Real license activation, refresh, eligible pauses and release-access status.\n- Compatible-build selection, verified downloads and native session lifecycle.\n- Dark violet interface and updated Kippo branding.",
+  "source_commit": "4d97d4537b08e7f19ee330fdb83db5626ddcaf23"
+}
