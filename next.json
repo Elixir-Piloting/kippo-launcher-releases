@@ -1,9 +1,9 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.2.4",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.4/Kippo-Portable-x64.zip",
-  "sha256": "90d7f03c2daa2b5729df0bde787181196a292997d23f0812e5e6c4e4578a9ac0",
-  "size": 3776064,
-  "notes": "- Fix session binding on the first launch after updating.\r\n- No interface changes.",
-  "source_commit": "0f7be886989b4f957c056b594c7a056bcb158cbc"
+  "version": "0.2.5",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.5/Kippo-Portable-x64.zip",
+  "sha256": "fba8033bb011a83d21a6cf9ffc498003a1428bb2c826de0712752ef7a37aafc9",
+  "size": 3776550,
+  "notes": "- Detect an existing Genshin Impact installation on first run.\r\n- Cleaner launch flow with fewer status messages.\r\n- Installation status updates while the game is running.",
+  "source_commit": "0585c14e456e6a61083f48625575087bc5c09714"
 }
