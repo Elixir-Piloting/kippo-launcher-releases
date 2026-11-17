@@ -1,9 +1,9 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.2.1",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.1/Kippo-Portable-x64.zip",
-  "sha256": "38933fe924b205410e34df9a393b723f78ec392682da1e99cdb3e225847450e9",
-  "size": 3777764,
-  "notes": "- Fix launcher connection checks on some Windows configurations.\r\n- No interface changes.",
-  "source_commit": "82d8332839a7ab748df673218bea1fd04c49531a"
+  "version": "0.2.3",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.3/Kippo-Portable-x64.zip",
+  "sha256": "eb016a66b89c141a9343a5fc783513e8bdcc03dc9c91fdbecb8409a0c7ac6b68",
+  "size": 3775757,
+  "notes": "- Fix device key creation on Windows systems with restricted TPM access.\r\n- No interface changes.",
+  "source_commit": "b161a6765d4899f061640a2fa36a0e63f6bca8c1"
 }
