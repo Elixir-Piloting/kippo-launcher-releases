@@ -1,9 +1,9 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.2.0",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.0/Kippo-Portable-x64.zip",
-  "sha256": "c9c6a47db49d35db905c866b646cccff78d1635e202d259d7a54eedd304c1d84",
-  "size": 3775635,
-  "notes": "- New launcher home with the HoYoPlay-style key art background and a serif Kippo wordmark.\r\n- Fixed rounded window, refreshed rail icons, thicker controls and darker hover states.\r\n- Game executable icon preview and a tidier license replace form.\r\n- Settings modal, full-bleed layout and general visual polish.\r\n- Compatibility with the current Kippo service and downloadable builds.",
-  "source_commit": "84c8fd347dd785aadedbff672f32f1225825725d"
+  "version": "0.2.1",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.1/Kippo-Portable-x64.zip",
+  "sha256": "38933fe924b205410e34df9a393b723f78ec392682da1e99cdb3e225847450e9",
+  "size": 3777764,
+  "notes": "- Fix launcher connection checks on some Windows configurations.\r\n- No interface changes.",
+  "source_commit": "82d8332839a7ab748df673218bea1fd04c49531a"
 }
