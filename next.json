@@ -1,9 +1,9 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.2.5",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.2.5/Kippo-Portable-x64.zip",
-  "sha256": "fba8033bb011a83d21a6cf9ffc498003a1428bb2c826de0712752ef7a37aafc9",
-  "size": 3776550,
-  "notes": "- Detect an existing Genshin Impact installation on first run.\r\n- Cleaner launch flow with fewer status messages.\r\n- Installation status updates while the game is running.",
-  "source_commit": "0585c14e456e6a61083f48625575087bc5c09714"
+  "version": "0.3.0",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.3.0/Kippo-Portable-x64.zip",
+  "sha256": "cd9b3e390d7fd7bd04e501e6b127124661e48f545761d174e9b94076126ed468",
+  "size": 3792801,
+  "notes": "- Sign every session request so a copied request cannot be replayed.\r\n- Support the separate Free and Pro game builds.\r\n- Reject out-of-date license data after a clock change.",
+  "source_commit": "c506586b4f0604c64d962142b7f6770835a28fb9"
 }
