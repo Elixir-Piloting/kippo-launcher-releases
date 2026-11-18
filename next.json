@@ -1,9 +1,11 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.3.0",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.3.0/Kippo-Portable-x64.zip",
-  "sha256": "cd9b3e390d7fd7bd04e501e6b127124661e48f545761d174e9b94076126ed468",
-  "size": 3792801,
-  "notes": "- Sign every session request so a copied request cannot be replayed.\r\n- Support the separate Free and Pro game builds.\r\n- Reject out-of-date license data after a clock change.",
-  "source_commit": "c506586b4f0604c64d962142b7f6770835a28fb9"
+  "version": "0.3.1",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.3.1/Kippo-Portable-x64.zip",
+  "sha256": "b8409185de675b6e4e2b76435737a74995313ba5b5159b557e21b44537cddbd5",
+  "size": 3796846,
+  "notes": "- Register verified launcher and helper hashes automatically with each release.\r\n- Report the portable launcher version for server compatibility checks.\r\n- Include the shared token reader fix for reliable session renewal.",
+  "source_commit": "45964ea22476376f25f6cbcc37e105ae60356a34",
+  "helper_sha256": "706591a45c7df1c5b4d0184253223582b0f59a1c24c9dcefecc79efdbc9162cc",
+  "launcher_sha256": "2f2301413134837fa101588437f8a665f447b4e1108fc35b4f56e609b8e20bd4"
 }
