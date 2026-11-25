@@ -1,11 +1,11 @@
 {
   "format": "tauri-portable-zip-v1",
-  "version": "0.3.1",
-  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.3.1/Kippo-Portable-x64.zip",
-  "sha256": "b8409185de675b6e4e2b76435737a74995313ba5b5159b557e21b44537cddbd5",
-  "size": 3796846,
-  "notes": "- Register verified launcher and helper hashes automatically with each release.\r\n- Report the portable launcher version for server compatibility checks.\r\n- Include the shared token reader fix for reliable session renewal.",
-  "source_commit": "45964ea22476376f25f6cbcc37e105ae60356a34",
-  "helper_sha256": "706591a45c7df1c5b4d0184253223582b0f59a1c24c9dcefecc79efdbc9162cc",
-  "launcher_sha256": "2f2301413134837fa101588437f8a665f447b4e1108fc35b4f56e609b8e20bd4"
+  "version": "0.4.0",
+  "url": "https://github.com/Elixir-Piloting/kippo-launcher-releases/releases/download/next-v0.4.0/Kippo-Portable-x64.zip",
+  "sha256": "98d6ac5f16a2a6dffc640a104dffcd9cdddb3a0950a8459efb49a5be4c89fb5b",
+  "size": 4699791,
+  "notes": "- Try Kippo Pro free for 24 hours, once per device, straight from the launcher.\n- Sign in with Discord to see the keys on your account and activate a queued key.\n- Uses the new kippo.cc domain; kippo.freyo.app keeps working.\n- Matches the latest in-game settings, including player speed and teleport options.",
+  "source_commit": "bb0bb18b9e55e3495fcd1989cdfde819ff28a013",
+  "helper_sha256": "8e77ef42899c8ff61cf2d9efd96cc7ebc6267e6ce19494c211bd8227fbde2124",
+  "launcher_sha256": "e14fc7d2522bb526777c8e826ba18d03b8f5b88395f36840dd7fbacaa7aa4779"
 }
